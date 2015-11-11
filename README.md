@@ -1,1 +1,1 @@
-# samtools_docker
+# samtools docker demo
